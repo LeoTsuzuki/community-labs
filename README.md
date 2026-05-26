@@ -8,8 +8,8 @@
 O **LabReserve** é uma solução digital desenvolvida para resolver os problemas de choques de horários, falta de transparência e burocracia no agendamento dos laboratórios do campus. A plataforma permite que professores consultem a disponibilidade em tempo real e realizem solicitações rápidas, enquanto a coordenação dispõe de um painel ágil para aprovação.
 
 ## 👥 Integrantes (Dupla)
-* [Nome do Aluno 1] — [@seu_usuario_github]
-* [Nome do Aluno 2] — [@usuario_github_dupla]
+* [Leonardo Tsuzuki de Almeida] — [@leotsuzuki]
+* [João Vitor Oliveira Manso] — [@joovit]
 
 ## 🛠️ Ecossistema de Ferramentas (Ambiente Digital)
 Para sustentar o nosso framework ágil, integrámos as seguintes plataformas:
@@ -26,7 +26,3 @@ Para manter o alinhamento com as práticas ágeis (Scrum/Kanban), o repositório
 * `main`: Código estável e homologado (Pronto para Produção).
 * `feature/HU-XX-[nome]`: Branches temporárias criadas para desenvolver uma História de Usuário específica do Trello (ex: `feature/HU-01-login-professor`).
 
-### Exemplo de Commits Semânticos Utilizados:
-* `feat(auth): implementação do login institucional (Ref: HU-01)`
-* `fix(calendar): correção no choque de horários na grade (Ref: HU-03)`
-* `docs(readme): atualização do ambiente digital da Aula 08`
