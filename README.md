@@ -7,9 +7,9 @@
 ## 📋 Sobre o Projeto
 O **LabReserve** é uma solução digital desenvolvida para resolver os problemas de choques de horários, falta de transparência e burocracia no agendamento dos laboratórios do campus. A plataforma permite que professores consultem a disponibilidade em tempo real e realizem solicitações rápidas, enquanto a coordenação dispõe de um painel ágil para aprovação.
 
-## 👥 Integrantes (Dupla)
-* [Leonardo Tsuzuki de Almeida] — [@leotsuzuki]
-* [João Vitor Oliveira Manso] — [@joovit]
+## 👥 Integrantes
+* Leonardo Tsuzuki de Almeida — [@leotsuzuki]
+* João Vitor Oliveira Manso — [@joaovitor-olv]
 
 ## 🛠️ Ecossistema de Ferramentas (Ambiente Digital)
 Para sustentar o nosso framework ágil, integrámos as seguintes plataformas:
