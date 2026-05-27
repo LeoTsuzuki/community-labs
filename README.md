@@ -13,16 +13,9 @@ O **LabReserve** é uma solução digital desenvolvida para resolver os problema
 
 ## 🛠️ Ecossistema de Ferramentas (Ambiente Digital)
 Para sustentar o nosso framework ágil, integrámos as seguintes plataformas:
-* **Gestão de Tarefas (Kanban):** [Trello](URL_DO_VOSSO_TRELLO)
-* **Comunicação e Ritos:** [Discord - Community Labs](URL_DO_CONVITE_OU_INDICAÇÃO)
-* **Documentação Viva:** [Google Docs](URL_DO_VOSSO_DOCS)
+* **Gestão de Tarefas (Kanban):** [Trello](https://trello.com/invite/b/6a1581efc6d32d45f714b9c2/ATTIa657d089dbb067e30b5228e77540b76f75E644B1/community-labs)
+* **Comunicação:** [Discord - Community Labs](https://discord.gg/SjjZGP2ks)
+* **Documentação:** [Google Docs](https://docs.google.com/document/d/134fXxR26ht13Km586r4k56Sg-Jjg7DvC_sId2twB814/edit?usp=sharing)
 * **Controle de Versão:** GitHub
 
 ---
-
-## 🌿 Estrutura de Branches & Fluxo Ágil
-Para manter o alinhamento com as práticas ágeis (Scrum/Kanban), o repositório segue uma estratégia de ramificação simplificada baseada em *Feature Branches*:
-
-* `main`: Código estável e homologado (Pronto para Produção).
-* `feature/HU-XX-[nome]`: Branches temporárias criadas para desenvolver uma História de Usuário específica do Trello (ex: `feature/HU-01-login-professor`).
-
